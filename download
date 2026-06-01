@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Runtime data
+logs/
+data/matches.json
+
+# System/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
