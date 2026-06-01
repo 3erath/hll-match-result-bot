@@ -1,0 +1,27 @@
+{
+  "name": "hll-match-result-bot",
+  "version": "1.2.0",
+  "description": "Customizable Discord bot for posting Hell Let Loose match results as embeds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "hell-let-loose",
+    "discord",
+    "match-results",
+    "hll",
+    "clanwar",
+    "match-report"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
